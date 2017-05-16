@@ -1,0 +1,18 @@
+c:\users\doğancan\documents\visual studio 2013\Projects\Assembly\Assembly\bin\Debug\Assembly.exe.config
+c:\users\doğancan\documents\visual studio 2013\Projects\Assembly\Assembly\bin\Debug\Assembly.exe
+c:\users\doğancan\documents\visual studio 2013\Projects\Assembly\Assembly\bin\Debug\Assembly.pdb
+c:\users\doğancan\documents\visual studio 2013\Projects\Assembly\Assembly\obj\Debug\Assembly.csprojResolveAssemblyReference.cache
+c:\users\doğancan\documents\visual studio 2013\Projects\Assembly\Assembly\obj\Debug\Assembly.Form1.resources
+c:\users\doğancan\documents\visual studio 2013\Projects\Assembly\Assembly\obj\Debug\Assembly.Properties.Resources.resources
+c:\users\doğancan\documents\visual studio 2013\Projects\Assembly\Assembly\obj\Debug\Assembly.csproj.GenerateResource.Cache
+c:\users\doğancan\documents\visual studio 2013\Projects\Assembly\Assembly\obj\Debug\Assembly.exe
+c:\users\doğancan\documents\visual studio 2013\Projects\Assembly\Assembly\obj\Debug\Assembly.pdb
+C:\Users\02484107\Desktop\Assembly\Assembly\bin\Debug\Assembly.exe.config
+C:\Users\02484107\Desktop\Assembly\Assembly\bin\Debug\Assembly.exe
+C:\Users\02484107\Desktop\Assembly\Assembly\bin\Debug\Assembly.pdb
+C:\Users\02484107\Desktop\Assembly\Assembly\obj\Debug\Assembly.csprojResolveAssemblyReference.cache
+C:\Users\02484107\Desktop\Assembly\Assembly\obj\Debug\Assembly.Form1.resources
+C:\Users\02484107\Desktop\Assembly\Assembly\obj\Debug\Assembly.Properties.Resources.resources
+C:\Users\02484107\Desktop\Assembly\Assembly\obj\Debug\Assembly.csproj.GenerateResource.Cache
+C:\Users\02484107\Desktop\Assembly\Assembly\obj\Debug\Assembly.exe
+C:\Users\02484107\Desktop\Assembly\Assembly\obj\Debug\Assembly.pdb
